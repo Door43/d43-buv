@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[buv:home|Door43 (buv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-buv|d43-buv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-buv/archive/master.zip|d43-buv.zip]]
+
+**Recent Changes**
+{{changes>ns = buv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/buv|Ethnologue data]]
+
